@@ -6,7 +6,7 @@
 <body>
 <form action="LoginCheck" method="post">
 <table>
-<tr><td> Login Dialogue</td></tr>
+<tr><td> Enter username and password</td></tr>
 <tr>
 <td>User Name</td><td><input type="text" name="uname"/></td>
 </tr>
