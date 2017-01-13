@@ -4,6 +4,6 @@
 <title>Main Page - MVC Demo</title>
 </head>
 <body>
-<a href="Login.jsp">Login</a>
+<a href="Login.jsp">Login page demo </a>
 </body>
 </html>
